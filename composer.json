@@ -11,11 +11,7 @@
         "classmap": [ 
         ],  
         "psr-4": {
-            "wpcms\\src\\": "src/",
-            "App\\": "app/"
-        },
-        "autoload-dev": {
-
+            "LARALI_CONTACT\\": "packages/larali/laravel-package-contactform/"
         }
     },
     "require": {}
