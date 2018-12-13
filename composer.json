@@ -1,0 +1,22 @@
+{
+    "name": "LARAVEL ALI Contact",
+    "description": "Custom Package",
+    "authors": [
+        {
+            "name": "AliShan",
+            "email": "nxb.alishan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [ 
+        ],  
+        "psr-4": {
+            "wpcms\\src\\": "src/",
+            "App\\": "app/"
+        },
+        "autoload-dev": {
+
+        }
+    },
+    "require": {}
+} 
